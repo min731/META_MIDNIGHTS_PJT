@@ -65,7 +65,8 @@
 
 ### ✔️ 세부 진행 기록
 
-(확대 시 깨지지 않고 보입니다!)
+💡확대 시 깨지지 않고 보실 수 있습니다!
+
 ![image](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/b379325e-ec4b-405d-95d9-fd09da1aae1c)
 
 ++ 23-10-01 : 깃허브 리드미 작성
