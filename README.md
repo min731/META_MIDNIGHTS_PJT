@@ -1,7 +1,7 @@
 # 📖 프로젝트명 
 
 ### ✔️ 미드나잇 캠프 [교육] '소리로 듣는 한국'
-
+(메타버스 아카데미 2기 미드나잇캠프 융합 프로젝트입니다.)
 ![image](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/4e24efd5-35ed-4da2-b9fb-09f32911b03f)
 
 
