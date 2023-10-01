@@ -79,6 +79,8 @@
 
 ### ✔️ 국악기 체험 큐레이터 챗봇 구현
 
+![AI LAST (1)](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/e74be734-b860-4137-bb94-7a9da5ec3292)
+
 ##### 1) 네이버 지식백과 API + 크롤링 활용 국악기 데이터 구축
 
 - GPT 3.5의 학습 데이터 중 한국어의 비율은 0.01697%<br>
