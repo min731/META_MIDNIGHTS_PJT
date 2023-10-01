@@ -118,13 +118,13 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### 🔹 주요 라이브러리
-<img src="https://img.shields.io/badge/mediapipe-23C8D2?style=for-the-badge&logo=mediapipe&logoColor=white"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">  <img src="https://img.shields.io/badge/langchain-EC1C24?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/konlpy-2C5BB4?style=for-the-badge&logo=konlpy&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/VideoTo3dPoseAndBVH-A5915F?style=for-the-badge&logo=VideoTo3dPoseAndBVH&logoColor=white"> <img src="https://img.shields.io/badge/Animated Drawings-0467DF?style=for-the-badge&logo=META&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/gradio-F08705?style=for-the-badge&logo=gradio&logoColor=white">
+<img src="https://img.shields.io/badge/beautifulsoup4-408294?style=for-the-badge&logo=beautifulsoup4&logoColor=white"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">  <img src="https://img.shields.io/badge/langchain-EC1C24?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/konlpy-2C5BB4?style=for-the-badge&logo=konlpy&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
 ### 🔹 개발 툴
-<img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 
 ### 🔹 협업 툴
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> 
+<img src="https://img.shields.io/badge/google docs-4285F4?style=for-the-badge&logo=google docs&logoColor=white"> <img src="https://img.shields.io/badge/google drive-4285F4?style=for-the-badge&logo=google drive&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
 
 # 🔍 참고 자료
 
@@ -132,18 +132,11 @@
 - 시연 영상 : [데스크 워커를 위한 자세 교정 서비스 '척추의 요정' (3)](https://velog.io/@min0731/%EB%8D%B0%EC%8A%A4%ED%81%AC-%EC%9B%8C%EC%BB%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%90%EC%84%B8-%EA%B5%90%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B2%99%EC%B6%94%EC%9D%98-%EC%9A%94%EC%A0%95-3)
 - Velog : [데스크 워커를 위한 자세 교정 서비스 '척추의 요정' (1)](https://velog.io/@min0731/%EB%8D%B0%EC%8A%A4%ED%81%AC-%EC%9B%8C%EC%BB%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%90%EC%84%B8-%EA%B5%90%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B2%99%EC%B6%94%EC%9D%98-%EC%9A%94%EC%A0%95-1)
   
-### ✔️ 기사
+### ✔️ 기사 및 통계 자료
 
-- https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=9054
-- https://www.xn--989a170ahhpsgb.com/15/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTMzO30%3D&bmode=view&idx=13580562&t=board
-
-### ✔️ 오픈소스 (GitHub)
-
-- https://github.com/pinecone-io/examples/blob/master/learn/generation/openai/fine-tuning/gpt-3.5-agent-training/00-fine-tuning.ipynb
-- https://github.com/HW140701/VideoTo3dPoseAndBvh
-- https://github.com/facebookresearch/AnimatedDrawings
+- https://www.inews24.com/view/1405939
+- https://fusiongugak.tistory.com/entry/%EA%B5%AD%EC%95%85%ED%8F%AC%ED%84%B8-%EC%95%84%EB%A6%AC%EB%9E%91-2016-%EA%B5%AD%EC%95%85-%EC%9D%B8%EC%A7%80%EB%8F%84-%EB%B0%8F-%EC%84%A0%ED%98%B8%EB%8F%84-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC-%EA%B2%B0%EA%B3%BC%EC%9E%85%EB%8B%88%EB%8B%A4
 
 ### ✔️ 라이브러리 공식 문서
 
 - https://www.langchain.com/
-- https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates
