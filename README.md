@@ -38,14 +38,14 @@
 송다혜 : 국악기 에셋/음성 데이터 수집
 
 🔹XR (Unreal)<br>
-박경민 : User/Object 상호작용 모듈 개발
+박경민 : User/Object 상호작용 모듈 개발<br>
 김은채 : User/Object 상호작용 모듈 개발, Unreal - Flask 통신 (텍스트, 음성) 
 
 🔹3D 모델링<br>
 김희진 : 한옥 Map/국악기 에셋 모델링
 
 🔹AI<br>
-임정민 : ChatGPT API 활용 큐레이터 구현
+임정민 : ChatGPT API 활용 큐레이터 구현<br>
 정민교 : Flask/FastAPI - Unreal 통신 (텍스트, 음성)
 
 ### ✔️ AI 세부 역할 분담
@@ -82,7 +82,17 @@
 
 ![image](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/2bace35c-a6d6-4289-8f78-4faee1f6b4cb)
 
-##### 2) 국악기 질문 답변 
+##### 2) 국악기 질문 답변 모듈 개발
+
+- "아쟁의 유래에 대해 알려주세요" , "판소리북과 당비파의 차이점이 무엇인가요?" 와 같은 질문에 대응
+- 형태소 분석기(Komoran)의 사용자 정의 사전을 활용하여 질문 문장안의 국악기명(고유명사/NNP) 인식
+
+![image](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/56faea0e-4247-4564-bd55-9c040e616b36)
+
+- 국악기명에 해당하는 데이터 주입 후, 이를 기반으로 답변
+- Langchain ChatPromptTemplate 활용하여 위 과정을 구현
+
+
 
 ### ✔️ 유사 서비스 'Forest' 어플 구글 플레이스토어 리뷰 LDA 분석
 
