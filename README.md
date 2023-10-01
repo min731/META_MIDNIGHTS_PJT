@@ -124,7 +124,7 @@
 <img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 
 ### 🔹 협업 툴
-<img src="https://img.shields.io/badge/google docs-4285F4?style=for-the-badge&logo=google docs&logoColor=white"> <img src="https://img.shields.io/badge/google drive-4285F4?style=for-the-badge&logo=google drive&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
+<img src="https://img.shields.io/badge/google docs-4285F4?style=for-the-badge&logo=google docs&logoColor=white"> <img src="https://img.shields.io/badge/google slides-FBBC04?style=for-the-badge&logo=google slides&logoColor=white"> <img src="https://img.shields.io/badge/google drive-4285F4?style=for-the-badge&logo=google drive&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
 
 # 🔍 참고 자료
 
