@@ -5,6 +5,7 @@
 
 ![image](https://github.com/min731/META_MIDNIGHTS_PJT/assets/115389344/4e24efd5-35ed-4da2-b9fb-09f32911b03f)
 
+📽️시연 영상(Youtube) : ['소리로 듣는 한국' 시연 영상](https://www.youtube.com/watch?v=mKGBNPpbqKU&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv&index=3&ab_channel=%EC%9E%84%EC%A0%95%EB%AF%BC)
 
 💡미드나잇캠프란?<br>
 - 미드나잇캠프는 메타버스 아카데미의 기획 / 데이터사이언스 / 자율 / XR / AI / 서버  모든 전공이 3일간 융합하여 진행하는 초단기 프로젝트입니다. 메타버스를 주제로 교육 / 과학기술 / 국방 / 행정 / 문화 등 다양한 산업분야 기반의 융합 프로젝트를 기획하고 개발하는 과정입니다. 
